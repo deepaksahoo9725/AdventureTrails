@@ -17,7 +17,7 @@ you can see all the modules
 
 How to use contact us:
 go to contact us page.
-add /query or /feedback at the end of the url to see query or feedback repectively
+add /query or /feedback at the end of the url to see query or feedback respectively
 
 
 
