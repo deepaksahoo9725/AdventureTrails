@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Queries/Feedback</title>
+</head>
+<body>
+    <h1>Please fill data in the form below:</h1>
+    <form method="POST" action="/post-feedback">
+        <label>Name:<input type="text" name="client-name" required></label>
+        <br>
+        <label>Email:<input type="email" name="client-email" required></label>
+        <br>
+        <label for="Type">Choose a category:</label>
+            <select id="Type" name="Type">
+            <option value="Query">Query</option>
+            <option value="Feedback">Feedback</option>
+            </select>
+        <br>
+        <label>Description:<br><textarea name="Description" placeholder="Please describe in 300 characters..."></textarea></label>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+    <a href="/view-feedbacks">View feedbacks</a>
+</body>
+</html>
