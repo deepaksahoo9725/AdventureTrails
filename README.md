@@ -1,10 +1,10 @@
 # AdventureTrails
--This is a travel package booking website
--This is created using expressJs framework. To fetch the details from db, mongoDB is used.
--This project has 4 different modules i.e.booking page, packagedetails page and contact us page and careers page.
--One can go to package details to see all the packages and booking page to book the package.
--Contact us page can be used for query and feedbacks.
--One can upload resume on career page.
+- This is a travel package booking website
+- This is created using expressJs framework. To fetch the details from db, mongoDB is used.
+- This project has 4 different modules i.e.booking page, packagedetails page and contact us page and careers page.
+- One can go to package details to see all the packages and booking page to book the package.
+- Contact us page can be used for query and feedbacks.
+- One can upload resume on career page.
 
 How to start with the project:
 1. clone the repo and open it in vs code or in any editor of your choice.
