@@ -6,7 +6,7 @@
 - Contact us page can be used for query and feedbacks.
 - One can upload resume on career page.
 
-How to start with the project:
+### How to start with the project:
 1. clone the repo and open it in vs code or in any editor of your choice.
 2. open the command pallate and navigate to this repo folder and run npm install.
 3. this will install all the required packages in the nodemodule folder
